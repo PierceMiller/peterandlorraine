@@ -1,18 +1,8 @@
 
+## 🛠️ Built With <a name="built-with"></a>
 
-<a name="readme-top"></a>
+- [![HTML][html-badge]][html-url]
+- [![CSS][css-badge]][css-url]
+- [![JavaScript][js-badge]][js-url]
+- [![Tailwind][tailwind-badge]][tailwind-url]
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <ol>
-    <li>
-      <a href="#built-with">Built With</a>
-      <ul>
-        <li><a href="#html-badge">HTML</a></li>
-        <li><a href="#css-badge">CSS</a></li>
-        <li><a href="#js-badge">JavaScript</a></li>
-        <li><a href="#tailwind-badge">Tailwind CSS</a></li>
-      </ul>
-    </li>
-  </ol>
-</details>
